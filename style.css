@@ -5,13 +5,14 @@
 }
 
 #wapper{
-    width: 100%;
-    height: 100vh;
+    margin:10px auto;
+    width: 1200px;
+    height: 550px;
     background-image: linear-gradient(to right, #4daf54, #3d8880);
 }
 #slide{
-    width: 100%;
-    height: 100vh;
+    width: 1200px;
+    height: 550px;
     background: rgba(0, 0, 0,0.6);
     position: absolute;
     z-index: -1;
@@ -55,7 +56,7 @@
 }
 .main{
     width: 900px;
-    height: 75vh;
+    height: 430px;
     margin:70px auto;
     background-color: #4daf54;
     transition: 0.5s;
